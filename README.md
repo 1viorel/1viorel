@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **soituviorel@gmail.com**
 
-- ⚡ Fun fact **I know where you live**
-
 <p align="left">
 </p>
 
