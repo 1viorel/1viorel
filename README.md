@@ -1,7 +1,6 @@
 <h1 align="center">Hi, I'm Viorel</h1>
-<h3 align="center">Work in progress</h3>
 
-- 🌱 I’m currently learning **Blender, TypeScript, Unreal**
+- 🌱 I’m currently learning **TypeScript and Unreal**
 
 - 📫 How to reach me **soituviorel@gmail.com**
 
