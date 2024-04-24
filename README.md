@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Viorel</h1>
 <h3 align="center">A student from Timisoara.</h3>
 
-- 🌱 I’m currently learning **.NET**
+- 🌱  <a href="https://1viorel.tech/" target="_blank" rel="noreferrer"> My site. </a>
 
 - 📫 How to reach me **soituviorel@gmail.com**
 
