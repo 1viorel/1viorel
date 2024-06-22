@@ -3,7 +3,7 @@
 
 - 🌱  <a href="https://1viorel.tech/" target="_blank" rel="noreferrer"> My site. </a>
 
-- 📫 How to reach me **soituviorel@gmail.com**
+- 📫 How to reach me **viorelsoitu@proton.me**
 
 <p align="left">
 </p>
